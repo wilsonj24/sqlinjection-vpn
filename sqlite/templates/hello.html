@@ -1,0 +1,32 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="jumbotron text-center">
+    <h1>Secure Confidential Bank</h1>
+    <p>Confidential Bank records</p>
+    <image src="{{ url_for('static', filename='images/thesecure.png')}}" width="200" height="180" style="position:absolute; right:-41px; top:43px">
+  </div>
+    <body>
+      {% for Customer in Customers %}
+      <center>
+        <strong>id:</strong> {{ Customer.id}} <br>
+        <strong>dob:</strong> {{ Customer.dob}} <br>
+        <strong>salary:</strong> {{ Customer.salary}} <br>
+        <strong>firstname:</strong> {{ Customer.firstname}} <br>
+        <strong>lastname:</strong> {{ Customer.lastname}} <br>
+        <strong>age:</strong> {{ Customer.age}} <br>
+        <strong>street:</strong> {{ Customer.street}} <br>
+        <strong>city:</strong> {{ Customer.city}} <br>
+        <strong>state:</strong> {{ Customer.state}} <br>
+        <strong>zip:</strong> {{ Customer.zip}} <br>
+        <strong>eyecolor:</strong> {{ Customer.eyecolor}} <br>
+        <strong>religion:</strong> {{ Customer.religion}} <br>
+        <strong>political affiliation:</strong> {{ Customer.politicalaffiliation}} <br>
+        <strong>relationship status:</strong> {{ Customer.relationshipstatus}} <br>
+        <strong>ethnicity:</strong> {{ Customer.ethnicity}} <br><br>
+
+      </center>
+    </body>
+  {% endfor %}
+
+{% endblock %}

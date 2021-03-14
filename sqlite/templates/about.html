@@ -1,0 +1,23 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="jumbotron text-center">
+    <h1>About us</h1>
+    <p>We are committed to keeping your information secure.</p>
+    <image src="{{ url_for('static', filename='images/thesecure.png')}}" width="200" height="180" style="position:absolute; right:-41px; top:43px">
+  </div>
+    <body>
+      <h1><center>Privacy is our top priority</center></h1>
+      <p>Here at secure confidential, we pride ourselves on giving our customers world class security to ensure them with the peace of mind knowning that their information is safe and secure. After all, everyone is entitled to have privacy. We can also safely say that we have had zero security issues thus far. Putting your information in someone else's hands is scary, that is why we make it easy to do so. Consider banking with us as we promise your account information is safe and secure.</p>
+      <br><br>
+      <h2 style="color:navy"><center>Consider these practices when it comes to managing your security</center></h2><br>
+      <h3 style="color:red"><center>Regularly change your password</center></h3>
+      <p><center>Regularly changing your password will make it harder for others to try and steal your information</center></p><br>
+      <h3 style="color:red"><center> Never write down any of your information</center></h3>
+      <p><center>Writing down your information could lead to theft</center></p><br>
+      <h3 style="color:red"><center> Set up your alerts</center></h3>
+      <p><center>Having your alerts on your phone will always allow you to get a notification of transactions in your account in real time</center></p><br>
+
+    </body>
+
+{% endblock %}

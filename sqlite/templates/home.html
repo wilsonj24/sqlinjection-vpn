@@ -1,0 +1,25 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="jumbotron text-center">
+    <h1>Secure Confidential Bank</h1>
+    <p>Est. 2020</p>
+    <image src="{{ url_for('static', filename='images/thesecure.png')}}" width="200" height="180" style="position:absolute; right:0px; top:43px">
+  </div>
+    <body>
+      <p style="color:red">Due to COVID-19, our services may be delayed but we assure you we are doing our best.</p><br><br>
+      <h1 style="color:navy"><center>Why should you bank with us?</center></h1>
+      <p><center>We offer no minimums with zero fees!</center></p>
+      <p><center>Sign up and open an account today!</center></p><br><br>
+      <h2 style="color:navy">Now introducing Secure+</h2>
+      <p>Our latest improvement to making your account and information more secure.</p>
+      <h2 style ="text-align:right; color:navy">Online banking has never been simpler</h2>
+      <p style ="text-align:right;">We improved our interface so making deposits is easier</p>
+      <h2 style="color:navy"><center>Our mobile app is better than before</center></h2>
+      <br><br><br>
+      <p>Legal Disclaimer: Secure Confidential isn't affiliated with any other subsidiaries that belong to banking</p>
+
+
+    </body>
+
+{% endblock %}
