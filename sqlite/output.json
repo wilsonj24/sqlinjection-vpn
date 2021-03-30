@@ -1,0 +1,102 @@
+
+id|firstname|lastname|age|street|city|state|zip|salary|eye|dob|religion|politicalaffiliation|relationshipstatus|ethnicity
+1|Mittie|Potter|62|Noug Plaza|Ajpuuce|CO|42313|$4462.18|BLUE|02/15/1972|Atheist|Democratic|Married|Asian
+2|Leroy|Owens|42|Vihug Trail|Fobkofkuz|DE|83441|$6552.27|RED|06/29/2047|Christian|Republican|Divorced|White
+3|Edna|George|44|Mupo Street|Jikgikro|NE|45478|$6751.85|BLUE|12/06/2033|Catholic|Republican|Divorced|White
+4|Chad|Chandler|27|Riehe Pass|Ewhalte|WV|1672|$1567.73|GREEN|02/22/1932|Protestant|Democratic|Married|White
+5|Eric|Young|19|Jowheh Boulevard|Amuunuve|GA|34270|$6474.74|WHITE|07/04/1949|Protestant|Democratic|Married|African American
+6|Allen|Matthews|21|Osfo Park|Egfizwu|MN|7649|$4778.12|RED|09/19/2007|Baptist|Republican|Divorced|White
+7|Theresa|Beck|62|Gudo Highway|Inuophem|MN|92350|$2706.02|BLUE|11/25/2062|Catholic|Republican|Married|White
+8|Carrie|Medina|32|Zafko Pass|Aletoat|SC|31063|$1148.89|BLUE|10/09/1971|Presbyterian|Republican|Separated|Hispanic
+9|Francis|Woods|34|Rage Way|Mawuuke|ND|69466|$8347.35|YELLOW|02/08/2020|Judaism|Democratic|Divorced|Native American
+10|Augusta|Sparks|58|Tasem Turnpike|Hativab|KY|30248|$1214.89|GREEN|06/17/1930|Atheist|Democratic|Separated|White
+11|Seth|Steele|45|Vasak Loop|Beklikbu|MN|92090|$2225.32|GREEN|04/05/1903|Atheist|Democractic|Divorced|Afrian American
+12|Mario|Jackson|44|Sabeja Path|Gecafja|NH|9793|$6794.51|BLUE|04/02/2054|Atheist|Democratic|Married|Asian
+13|Sue|Poole|55|Uciso Court|Ifkipne|SD|68745|$4001.58|RED|01/10/2067|Atheist|Republican|Married|White
+14|Trevor|Lloyd|52|Vipe Point|Gakasme|AR|94883|$7404.06|WHITE|12/02/1941|Buddhism|Libertarian|Married|African American
+15|Eula|Bowers|64|Doam Key|Ognasi|OH|43018|$208.77|YELLOW|09/22/2015|Muslim|Democratic|Married|Hispanic
+16|Chad|Bell|19|Nelo Path|Denewwek|VA|45353|$2234.21|GREEN|10/28/1978|Presbyterian|Republican|Separated|Asian
+17|Harriet|Cortez|40|Neas Ridge|Kalomim|FL|92235|$4627.71|WHITE|08/15/2025|Protestant|Republican|Divorced|Native American
+18|Lora|Cohen|46|Buluj Glen|Oswalaj|ID|6684|$925.78|WHITE|02/18/1993|Baptist|Democratic |Separated|White
+19|Fred|Roberson|22|Sozdof River|Beataga|WV|13664|$1477.46|WHITE|07/12/1999|Catholic|Democratic|Married|White
+20|Floyd|Davidson|35|Tooju Grove|Jilopsef|IL|18948|$3589.51|WHITE|03/02/1967|Baptist|Democratic|Divorced|African American
+21|Cecelia|Moore|34|Tobi River|Jorracun|MI|72757|$2796.00|GREEN|01/13/1955|Muslim|Democratic|Separated|Asian
+22|Eleanor|Nash|54|Duize Key|Iluregvah|WY|75825|$8464.01|YELLOW|09/23/2009|Judaism|Democratic|Married|African American
+23|Lenora|Perez|23|Vowa Way|Sedhaaci|UT|65994|$6617.85|BLUE|07/03/1924|Judaism|Republican|Separated|White
+24|Billy|Perry|43|Huuna Center|Mupuwfa|AR|54243|$689.82|WHITE|12/21/2025|Muslim|Libertarian|Separated|White
+25|Sally|Hunter|58|Buphe Ridge|Ewilotez|DE|77832|$1525.39|YELLOW|07/17/1932|Presbyterian|Libertarian|Divorced|White
+26|Cornelia|Singleton|32|Mooli Place|Gimurviv|MS|58733|$4496.32|WHITE|07/05/1980|Hinduism|Republican|Married|Asian
+27|Stella|Davis|21|Tunhop Grove|Kukewga|NH|2351|$9504.91|BLUE|04/16/2029|Christian|Democratic|Separated|White
+28|Evan|Reid|51|Vobuje Terrace|Nurecbo|AR|91509|$9634.36|YELLOW|04/16/1942|Christian|Republican|Married|African American
+29|Marcus|Hicks|60|Zonzep Way|Vehmusma|AR|14057|$7629.71|GREEN|12/02/1904|Christian|Democractic|Separated|White
+30|Adele|Young|56|Dabah View|Migwimnib|NV|75399|$5116.97|RED|10/11/1994|Christian|Republican|Married|White
+31|Millie|Marsh|24|Cecil Highway|Vaucuit|NM|16412|$1741.02|YELLOW|10/20/2007|Christian|Democratic|Separated|Asian
+32|George|Jennings|47|Wakub Plaza|Nuzpaar|MI|64325|$2312.52|WHITE|12/13/1947|Judaism|Republican|Divorced|White
+33|Eleanor|Moreno|38|Ujazu Circle|Mawgube|MT|25195|$9438.62|WHITE|07/04/2063|Muslim|Republican|Separated|White
+34|Dora|Owen|31|Osukiz Turnpike|Nugtipan|MD|31734|$8872.30|RED|10/19/1971|Atheist|Republican|Married|African American
+35|Celia|Higgins|24|Ejaiwo Turnpike|Isiabelok|AL|62499|$2186.30|YELLOW|09/20/1958|Prostestant|Republican|Married|White
+36|Louis|Clayton|60|Picej Manor|Ojbocdi|CO|92057|$7932.58|GREEN|07/30/1992|Catholic|Republican|Married|White
+37|Wayne|Austin|26|Uzto Road|Gekmouvi|IN|62441|$2080.43|WHITE|10/12/1909|Presbyterian|Republican|Married|Native American
+38|Tom|Gross|43|Ezemom Turnpike|Raunle|UT|9815|$3276.09|GREEN|01/11/1961|Christian|Democratic|Married|White
+39|George|Austin|18|Jugef Ridge|Vuitimi|RI|77416|$2918.17|WHITE|05/05/2030|Catholic|Democratic|Married|White
+40|Janie|Thompson|23|Luraf Boulevard|Daejhe|OH|7490|$829.20|WHITE|07/07/2042|Christian|Democratic|Married|Asian
+41|Bertha|Ramos|64|Zetuv Loop|Sozerdav|MA|78194|$4989.36|WHITE|07/06/2024|Atheist|Libertarian|Married|White
+42|Micheal|Green|39|Lemto Pike|Gaezji|MN|35555|$6644.29|RED|10/25/2002|Hinduism|Democratic|Separated|White
+43|Lillian|Alvarez|61|Rucso Plaza|Hiphupwuh|IL|66041|$3949.74|BLUE|02/07/1998|Muslim|Republican|Married|White
+44|Michael|Hunt|33|Dovu Circle|Pewulij|NY|57413|$622.26|GREEN|10/05/2016|Baptist|Republican|Separated|White
+45|Vernon|Stanley|34|Zekbes Loop|Zowerele|IL|13439|$6604.91|GREEN|05/01/1951|Judaism|Republican|Divorced|White
+46|Sophia|Warner|37|Zubif Manor|Zawsedufi|VT|71324|$5694.79|YELLOW|05/13/1970|Christian|Democratic|Divorced|African American
+47|Mabel|Morgan|31|Kovov View|Panokbaz|DE|18361|$2755.69|GREEN|06/17/2024|Christian|Democratic|Separated|White
+48|Jesse|Ortega|62|Wedzen Court|Pilnuwhu|AZ|17298|$7623.48|YELLOW|05/25/1959|Christian|Democratic|Married|White
+49|Sallie|Ramsey|33|Bebem Pass|Calula|CA|53960|$7104.37|WHITE|09/01/1920|Christian|Democratic|Separated|Asian
+50|Miguel|Garcia|22|Zawune Place|Usuzudi|AK|43871|$8053.99|GREEN|06/03/2068|Christian|Democratic|Separated|White
+51|Henrietta|Wagner|44|Ligemo Point|Javopvef|WV|11976|$6120.86|GREEN|04/07/1981|Christian|Democratic|Divorced|Native American
+52|Birdie|Thomas|36|Cajjem Extension|Kasaloh|NC|57952|$7322.24|RED|06/28/1989|Christian|Democratic|Divorced|White
+53|Christina|Olson|47|Tihgas Mill|Oveufaire|NC|1752|$8590.21|WHITE|06/18/1983|Christian|Democratic|Married|African American
+54|Gussie|Goodwin|23|Ropoz Extension|Ubakehud|MO|13478|$8146.77|RED|05/23/2052|Christian|Democratic|Separated|African American
+55|Essie|Robbins|34|Sovze Lane|Ciwikfa|NH|44028|$7277.61|RED|09/12/1922|Christian|Democratic|Divorced|White
+56|Callie|Barnett|28|Wirgu Park|Rulpilun|LA|95896|$6349.29|WHITE|08/06/2010|Christian|Democratic|Separated|White
+57|Ollie|Vaughn|44|Kiwi Turnpike|Wuginsul|PA|37356|$5672.27|RED|11/10/2020|Christian|Republican|Divorced|Asian
+58|Della|Munoz|30|Ehhe Key|Juzviub|AK|47279|$6367.38|GREEN|06/28/2051|Christian|Republican|Divorced|White
+59|Cora|Hogan|62|Epohu River|Bokbovac|OR|4028|$6230.50|GREEN|01/31/1975|Christian|Republican|Divorced|White
+60|Josie|Parks|54|Kiture Pass|Nafidpod|AL|23218|$3015.78|BLUE|05/22/1907|Judaism|Republican|Divorced|White
+61|Max|Gonzalez|42|Hasek Glen|Milupuun|UT|58566|$5544.56|RED|01/31/2033|Hinduism|Republican|Divorced|African American
+62|Agnes|Banks|48|Tokid Path|Tawjajjez|IL|29545|$9180.82|WHITE|08/06/2003|Muslim|Republican|Separated|White
+63|Maria|Ray|30|Wuiz Circle|Bounvi|NM|77166|$5366.44|WHITE|10/26/2061|Atheist|Libertarian|Married|African American
+64|Lee|Chavez|55|Salti Grove|Inuvko|GA|40673|$1862.37|RED|08/25/2045|Presbyterian|Republican|Separated|White
+65|Lucy|Perez|58|Dikjon Pass|Batfehtu|NJ|99982|$5255.69|BLUE|11/02/2040|Muslim|Republican|Separated|White
+66|Delia|Jimenez|50|Lenu Heights|Viibkeb|ID|64782|$8789.69|BLUE|05/11/1921|Christian|Republican|Married|African American
+67|Chester|James|37|Gute View|Cacekpi|LA|43826|$4126.35|GREEN|11/09/1965|Judaism|Libertarian|Separated|White
+68|Carolyn|Riley|37|Aheeki Junction|Upijivlal|VA|48603|$1585.87|YELLOW|07/16/1970|Atheist|Republican|Married|White
+69|Daisy|Lewis|21|Muguw Mill|Dupkamca|AK|20701|$2452.56|WHITE|11/02/2043|Presbyterian|Libertarian|Separated|African American
+70|Ida|Gibson|48|Amuka Boulevard|Alukahi|TX|96653|$7885.47|RED|10/28/1925|Baptist|Democratic|Separated|White
+71|Bryan|Phelps|35|Evotit Path|Izcehjar|SC|49270|$427.50|YELLOW|07/21/2064|Christian|Libertarian|Divorced|White
+72|Don|Hughes|26|Hojfo Glen|Kiruwecu|TN|56089|$484.22|BLUE|05/02/1990|Buddhism|Libertarian|Married|Native American
+73|Matthew|Willis|51|Tuco Manor|Juucuzu|MO|26047|$8747.13|YELLOW|02/25/2006|Judaism|Libertarian|Married|White
+74|Jane|Craig|51|Ekdam Extension|Gobijcun|MS|55400|$9033.28|BLUE|05/17/2055|Christian|Libertarian|Married|African American
+75|Marian|Walton|60|Duvji Place|Ojuewoug|AR|50415|$4584.19|GREEN|10/07/1962|Buddhism|Libertarian|Separated|White
+76|Polly|Joseph|34|Necim Pike|Edediad|NY|977|$9571.68|YELLOW|06/28/1928|Baptist|Democratic|Separated|White
+77|Jim|James|45|Ajepi Key|Bilohehe|VT|61253|$1496.78|WHITE|04/11/1928|Atheist|Libertarian|Separated|African American
+78|Pearl|Cole|61|Kohuh Glen|Sivgufi|NC|55182|$2247.72|WHITE|08/07/1985|Buddhism|Libertarian|Divorced|White
+79|Travis|Manning|45|Nucluz Junction|Veibuudo|ND|68295|$318.97|BLUE|06/22/2001|Muslim|Democratic|Separated|White
+80|James|Walsh|20|Wuzwe Trail|Hopzasgi|SC|17494|$3804.05|YELLOW|05/15/1912|Athiest|Libertarian|Divorced|White
+81|Ryan|Moss|47|Bezaj Grove|Favuvrah|AL|31658|$7521.75|WHITE|01/30/2032|Christian|Libertarian|Separated|Asian
+82|Gene|Wolfe|47|Kaka Loop|Dodizzu|CO|94301|$288.69|BLUE|08/19/1996|Christian|Democratic|Separated|White
+83|Lenora|McDonald|54|Tijci Pass|Hakupo|VT|90363|$4954.92|RED|02/09/1926|Christian|Libertarian|Separated|White
+84|Mabel|Lucas|51|Fuumu Park|Gomecizif|MO|75666|$3201.99|WHITE|03/04/1935|Christian|Libertarian|Married|White
+85|Sophie|Fletcher|50|Hizoj Park|Fivrehna|PA|686|$6728.36|RED|11/17/2045|Christian|Democratic|Separated|White
+86|Vera|Reyes|26|Hidom Highway|Ognidwo|NY|90210|$3381.73|WHITE|12/10/2059|Christian|Democratic|Divorced|Native American
+87|Teresa|Payne|51|Sauh Turnpike|Didwekrez|WI|66096|$3635.85|WHITE|01/11/1913|Christian|Republican|Divorced|White
+88|Eric|Holt|35|Juur Ridge|Nunnabfu|UT|15044|$2859.59|YELLOW|04/17/1984|Christian|Republican|Married|White
+89|Rosetta|Caldwell|38|Adenah Square|Meneoju|CO|40572|$3298.57|BLUE|02/23/2067|Christian|Republican|Separated|White
+90|Adele|Obrien|23|Keron Grove|Vetocpo|AR|20407|$2908.79|GREEN|05/12/2026|Baptist|Libertarian|Separated|African American
+91|Evan|Barton|40|Rele Highway|Ralija|AL|60680|$5966.72|YELLOW|11/16/1939|Presbyterian|Democratic|Married|African American
+92|Nellie|Cummings|63|Davrac Circle|Puwafvoz|IA|28941|$619.10|WHITE|08/15/1906|Catholic|Democratic|Separated|African American
+93|Violet|Cole|37|Zevgu Circle|Nisifa|DE|95538|$4070.99|WHITE|11/15/2054|Christian|Democratic|Divorced|African American
+94|Claudia|Reeves|52|Roczum River|Haegewed|MT|93822|$666.75|YELLOW|10/04/1912|Christian|Democratic|Married|White
+95|Rosa|Torres|49|Jokut Point|Wamafobe|NM|85006|$1833.06|GREEN|11/15/2037|Atheist|Republican|Separated|White
+96|Francis|Moran|61|Gogkad Path|Hapila|GA|70946|$5665.68|WHITE|02/10/2033|Christian|Libertarian|Separated|White
+97|Lloyd|Myers|32|Roebe Key|Tekzael|NJ|79809|$7012.99|GREEN|12/03/1952|Christian|Republican|Divorced|Native American
+98|Michael|Ramirez|61|Gukza Drive|Facavine|KS|22515|$7339.64|WHITE|06/02/1928|Christian|Libertarian|Married|White
+99|Katherine|Jennings|62|Hohgoj Street|Vetmewuj|KS|65264|$5943.70|RED|12/17/2047|Christian|Republican|Separated|White
+100|Josie|Torres|32|Figero View|Ocobocvi|WY|92851|$9660.30|YELLOW|05/27/1916|Christian|Democratic|Married|Asian
